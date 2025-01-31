@@ -1,0 +1,98 @@
+.card-f{
+    font-size: small;
+    width: 430px;
+    background-size: cover;
+    backdrop-filter: blur(30px);
+    /* backdrop-filter: brightness(70%); */
+    padding: 20px;
+    box-shadow: 0 0 30px 5px rgba(0, 0, 0, 10);
+}
+.containerr{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.list-l{
+    margin-top: 5px;
+}
+.list-l a:hover{
+    background-color: aliceblue;
+    color: black;
+    border-radius: 20px;
+    padding: 5px;
+}
+.list-l a{
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+}
+.list-l li{
+    list-style: none;
+}
+.navbar-l{
+    background-color:rgba(42,76,79,255);
+    font-size: medium;
+}
+.logs img{
+    height: 60px;
+    width: 130px;
+}
+.form-control{
+    border-radius: 15px;  
+    height: 30px;
+    font-size:5px;
+}
+.form-label{
+    padding: 5px;
+    font-size: 10px;
+    letter-spacing: 2px;
+    margin-top: 5px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    color: aliceblue;
+}
+.btn-r{
+    background-color:rgb(22, 22, 195);
+    color: rgb(19, 19, 19);
+    font-weight: 400;
+    border: none;
+    border-radius: 15px;
+    height: 30px;
+    font-size: 13px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.par{
+    margin-top: 20px;
+    margin-bottom: -5vh;
+}
+.per a{
+    color: rgb(12, 13, 13);
+}
+.card-body-b{
+    justify-content: center;
+    align-items: center;
+}
+.card-title-t{
+    text-align: center;
+    font-size: 35px;
+    font: bolder;
+    color: rgb(237, 237, 245);
+    margin-bottom: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.form-control{
+    font-size: 12px;
+    background: transparent;
+}
+.text-center{
+    font-size: 11px;   
+}
+.text-center a{
+    text-decoration: none;
+}
+.containersl{
+    width: 100%;
+    height: 90vh;
+    background-image: url(./images/painting-mountain-lake-with-mountain-background.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+}

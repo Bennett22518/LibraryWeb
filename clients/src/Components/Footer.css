@@ -1,0 +1,67 @@
+.footers{
+    justify-content: center;
+    align-items: center;
+    background-color: #748d92;
+    padding: 5px 0 5px 0;
+    /* height: 350px; */
+    display:flex;
+}
+.footiconf{
+    color: black;
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+.footiconi{
+    color: black;
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+.footicont{
+    color: black;
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+.imgs{
+    width: 180px;
+    height: 100px;
+    margin-right: 100px;
+}
+.foot{
+    float: left;
+    text-align: start;
+    /* margin-left: 100px; */
+    /* margin-top: 40px; */
+}
+.foot p{
+    /* text-align: start; */
+    text-indent: 10px;
+    font-size: small;
+}
+.foots p{
+    /* margin-top: 150px; */
+    /* margin-left: 150px; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: small;
+}
+.loc{
+    width: 30px;
+    height: 30px;
+}
+.footimg{
+    display: block;
+    width: 200px;
+    /* margin-left:150px; */
+    /* margin-top: 50px; */
+}
+.footimg h5{
+    font-size: medium;
+    /* margin-right: 150px; */
+    font-family: 'Times New Roman', Times, serif;
+}
+.img1{
+    width: 80px;
+    height: 80px;
+}

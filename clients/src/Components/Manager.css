@@ -1,0 +1,41 @@
+
+.contai{
+    background-color: #D3D9D4;
+    margin-top:-2vh;
+}
+.modal-content{
+    background-color: #748d92;
+    width: 700px;
+}
+.tablebody{
+    position: sticky;
+    top: 0;
+}
+.h{
+    padding-top: 10px;
+}
+.table{
+    width: 100%;
+    border: 1px solid rgb(139, 133, 133);
+}
+.table{
+    width: 100%;
+    /* background-color: rgb(199, 193, 185); */
+}
+.table th{
+    background-color: #748d92;
+}
+.table td{
+    background-color: #D3D9D4;
+}
+.btn-g{
+    border-radius: 20px;
+    height: 40px;
+    color: black;
+    border: none;
+    width: 100px;
+    background-color: rgb(107, 103, 100);
+}
+.btn-g:hover{
+    background-color: rgb(157, 145, 137);
+}

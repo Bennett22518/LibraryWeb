@@ -1,0 +1,161 @@
+
+.dropdown-n{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.ico{
+    width: 18px;
+    height: 18px;
+    /* margin-top: -1vh; */
+    padding-right: 5px;
+}
+.hom{
+    width: 18px;
+    height: 18px;
+}
+.navbar-n{
+    background-color: #748d92;
+    height: 70px;
+    width:100%;
+}
+.lab{
+    padding: 10px 0 1px 0;
+}
+.pro{
+    /* border:3px solid #404243; */
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: aliceblue;
+    margin-top: -2vh;
+    margin-top: 2px;
+}
+.pro:hover{
+    background-color: aliceblue;
+    box-shadow: 0 0 10px 2px;
+}
+.modal-dialog{
+    position: relative;
+    z-index: 2;
+}
+.modal-content{
+    height: 500px;
+    width: 700px;
+    padding: 10px;
+    font-size: 14px;
+    text-align: start;
+    background-color: #748d92;
+}
+.return button{
+    border: none;
+    width: 100px;
+    background-color: rgb(180, 109, 109);
+}
+.container-fluid{
+    width: 100%;
+}
+.bookname{
+    width: 200px;
+}
+.modal-body{
+    margin-top: -5vh;
+    background-color: #748d92;
+}
+.modal-title{
+    text-transform: uppercase;
+    color: #083f54;
+}
+.container-m{
+    overflow-y:auto;
+}
+.form-group{
+    padding: 0 20px 0 20px;
+}
+.form-group label{
+    font-size: 13px;
+    text-transform: uppercase;
+}
+.form-n{
+    margin-left: 800px;
+}
+.form-control-q{
+    background-color: rgb(244, 245, 246);
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    height: 25px;
+}
+.logn img{
+    height: 60px;
+    width: 130px;
+    align-items: end;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+.list-n{
+    margin-left: -3vh;
+    margin-top: 5px;
+    list-style: none;
+    color: black;
+    font-size: small;
+}
+.list-n li:hover{
+    border-top: 2px solid #124E66;
+    border-radius: 5px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.m-3 a:hover{
+    text-decoration: none;
+}
+.list-n li{
+    padding: 5px;
+}
+.list-n a{
+    color: black;
+}
+.dropdown-menu{
+background-color: #D3D9D4;
+}
+#userDe{
+    width: 250px;
+    padding-left: 15px;
+    font-size: small;
+    list-style: none;
+    margin-top: 10px;
+    filter: drop-shadow(0.25rem 0.25rem 0.5rem #0005);
+}
+#userDe:hover li{
+    pointer-events: visible;
+    cursor: pointer;
+}
+#userDe li{
+    margin-right: 20px;
+}
+.p:hover{
+    background-color: #748d92;
+    padding: 5px;
+}
+.userDetails{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+.userDetails:hover{
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+}
+.btn-m{
+    margin-left: 10px;
+    margin-top: 5px;
+    border-radius: 20px;
+    height: 50px;
+    color: black;
+    border: none;
+    width: 100px;
+}
+.btn-m:hover{
+    background-color: #124E66;
+    color: aliceblue;
+}

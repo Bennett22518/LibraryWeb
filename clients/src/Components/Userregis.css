@@ -1,0 +1,85 @@
+.card-g {
+    width: 430px;
+    padding: 20px;
+    /* margin-top:50px; */
+    padding-bottom: 10px;
+    font-size: small;
+    /* margin-top:100px; */
+    backdrop-filter: blur(30px);
+    box-shadow: 0 0 30px 5px rgba(0, 0, 0, 10);
+    border-radius: 50px;
+}
+.navbar-r{
+    background-color: rgba(42,76,79,255);
+    font-size: small;
+    position: sticky;
+}
+nav{
+    position: sticky;
+}
+.card-title{
+    font-weight: 400;
+    padding: 25px;
+    margin: 10px;
+    text-align: center;
+    font-size: 35px;
+    font: bolder;
+    color: rgb(24, 24, 25);
+    margin-bottom: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.list-r{
+    margin-top: 10px;
+    list-style: none;
+}
+.list-r a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.logr{
+    margin-left: 880px;
+}
+.logr img{
+    height: 60px;
+    width: 130px;
+    margin-top: 10px;
+}
+.btn{
+    background-color: rgba(16,45,55,255);
+    border-radius: 20px;
+    border: none;
+    font-size: 13px;
+    font-weight: 400;
+}
+.form-label{
+    font-size: 10px;
+    margin-bottom: 1px;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+}
+.card-title{
+    margin-bottom: -6vh;
+    margin-top: -1vh;
+    color: rgb(237, 237, 245);
+}
+.pa{
+    margin-bottom: -2vh;
+}
+.form-control{
+    font-size: 12px;
+    background: rgba(255, 255,255, 0.3);
+}
+.par{
+    font-size: 11px;
+    
+}
+.par a{
+    text-decoration: none;
+}
+.containers{
+    width: 100%;
+    height: 120vh;
+    background-image: url(./images/painting-mountain-lake-with-mountain-background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
