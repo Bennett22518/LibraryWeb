@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/github.io/LibraryWeb/clients/src/app.js/static/css/main.4f12b7ce.css",
-    "main.js": "/github.io/LibraryWeb/clients/src/app.js/static/js/main.a4e5335e.js",
-    "static/js/453.a8bce52b.chunk.js": "/github.io/LibraryWeb/clients/src/app.js/static/js/453.a8bce52b.chunk.js",
-    "static/media/painting-mountain-lake-with-mountain-background.jpg": "/github.io/LibraryWeb/clients/src/app.js/static/media/painting-mountain-lake-with-mountain-background.42b24253182bff5589d1.jpg",
-    "static/media/vecteezy_large-library-with-many-books-and-bookshelves-for-learning_26759864.jpg": "/github.io/LibraryWeb/clients/src/app.js/static/media/vecteezy_large-library-with-many-books-and-bookshelves-for-learning_26759864.e9bc437f19125bc3731a.jpg",
-    "static/media/Pride and Prejudice.jpg": "/github.io/LibraryWeb/clients/src/app.js/static/media/Pride and Prejudice.0234f0fdbea82d029c75.jpg",
-    "static/media/MV5BMTkxNTk1ODcxNl5BMl5BanBnXkFtZTcwMDI1OTMzOQ@@._V1_FMjpg_UX1000_.jpg": "/github.io/LibraryWeb/clients/src/app.js/static/media/MV5BMTkxNTk1ODcxNl5BMl5BanBnXkFtZTcwMDI1OTMzOQ@@._V1_FMjpg_UX1000_.ed8dba10c6c658df63f4.jpg",
-    "static/media/Moby_Dick.jpg": "/github.io/LibraryWeb/clients/src/app.js/static/media/Moby_Dick.68e2af51e236ac2cec9d.jpg",
-    "static/media/visualhunter-a8ec508b37.png": "/github.io/LibraryWeb/clients/src/app.js/static/media/visualhunter-a8ec508b37.c75c7c8c0bfb35a96a28.png",
-    "static/media/91teiIZ5vwL._AC_UF1000,1000_QL80_.jpg": "/github.io/LibraryWeb/clients/src/app.js/static/media/91teiIZ5vwL._AC_UF1000,1000_QL80_.ffb02cb30a62a0f2483b.jpg",
-    "static/media/—Pngtree—creative combination of library books_126323.png": "/github.io/LibraryWeb/clients/src/app.js/static/media/—Pngtree—creative combination of library books_126323.5f746760bba2db297946.png",
-    "static/media/modern-library-interior-stockcake.jpg": "/github.io/LibraryWeb/clients/src/app.js/static/media/modern-library-interior-stockcake.96fdf3408f8a0d657920.jpg",
-    "static/media/user-profile-icon-free-vector.jpg": "/github.io/LibraryWeb/clients/src/app.js/static/media/user-profile-icon-free-vector.e8d1da13d64433b55420.jpg",
-    "static/media/lo.webp": "/github.io/LibraryWeb/clients/src/app.js/static/media/lo.6d4a3d1319f0c45d1ec3.webp",
-    "static/media/contact.png": "/github.io/LibraryWeb/clients/src/app.js/static/media/contact.5d89ac0f785f7e6b24de.png",
-    "index.html": "/github.io/LibraryWeb/clients/src/app.js/index.html",
-    "main.4f12b7ce.css.map": "/github.io/LibraryWeb/clients/src/app.js/static/css/main.4f12b7ce.css.map",
-    "main.a4e5335e.js.map": "/github.io/LibraryWeb/clients/src/app.js/static/js/main.a4e5335e.js.map",
-    "453.a8bce52b.chunk.js.map": "/github.io/LibraryWeb/clients/src/app.js/static/js/453.a8bce52b.chunk.js.map"
+    "main.css": "/github.io/LibraryWeb/clients/src/App.js/static/css/main.4c66428b.css",
+    "main.js": "/github.io/LibraryWeb/clients/src/App.js/static/js/main.2862c045.js",
+    "static/js/453.a8bce52b.chunk.js": "/github.io/LibraryWeb/clients/src/App.js/static/js/453.a8bce52b.chunk.js",
+    "static/media/painting-mountain-lake-with-mountain-background.jpg": "/github.io/LibraryWeb/clients/src/App.js/static/media/painting-mountain-lake-with-mountain-background.42b24253182bff5589d1.jpg",
+    "static/media/vecteezy_large-library-with-many-books-and-bookshelves-for-learning_26759864.jpg": "/github.io/LibraryWeb/clients/src/App.js/static/media/vecteezy_large-library-with-many-books-and-bookshelves-for-learning_26759864.e9bc437f19125bc3731a.jpg",
+    "static/media/Pride and Prejudice.jpg": "/github.io/LibraryWeb/clients/src/App.js/static/media/Pride and Prejudice.0234f0fdbea82d029c75.jpg",
+    "static/media/MV5BMTkxNTk1ODcxNl5BMl5BanBnXkFtZTcwMDI1OTMzOQ@@._V1_FMjpg_UX1000_.jpg": "/github.io/LibraryWeb/clients/src/App.js/static/media/MV5BMTkxNTk1ODcxNl5BMl5BanBnXkFtZTcwMDI1OTMzOQ@@._V1_FMjpg_UX1000_.ed8dba10c6c658df63f4.jpg",
+    "static/media/Moby_Dick.jpg": "/github.io/LibraryWeb/clients/src/App.js/static/media/Moby_Dick.68e2af51e236ac2cec9d.jpg",
+    "static/media/visualhunter-a8ec508b37.png": "/github.io/LibraryWeb/clients/src/App.js/static/media/visualhunter-a8ec508b37.c75c7c8c0bfb35a96a28.png",
+    "static/media/91teiIZ5vwL._AC_UF1000,1000_QL80_.jpg": "/github.io/LibraryWeb/clients/src/App.js/static/media/91teiIZ5vwL._AC_UF1000,1000_QL80_.ffb02cb30a62a0f2483b.jpg",
+    "static/media/—Pngtree—creative combination of library books_126323.png": "/github.io/LibraryWeb/clients/src/App.js/static/media/—Pngtree—creative combination of library books_126323.5f746760bba2db297946.png",
+    "static/media/modern-library-interior-stockcake.jpg": "/github.io/LibraryWeb/clients/src/App.js/static/media/modern-library-interior-stockcake.96fdf3408f8a0d657920.jpg",
+    "static/media/user-profile-icon-free-vector.jpg": "/github.io/LibraryWeb/clients/src/App.js/static/media/user-profile-icon-free-vector.e8d1da13d64433b55420.jpg",
+    "static/media/lo.webp": "/github.io/LibraryWeb/clients/src/App.js/static/media/lo.6d4a3d1319f0c45d1ec3.webp",
+    "static/media/contact.png": "/github.io/LibraryWeb/clients/src/App.js/static/media/contact.5d89ac0f785f7e6b24de.png",
+    "index.html": "/github.io/LibraryWeb/clients/src/App.js/index.html",
+    "main.4c66428b.css.map": "/github.io/LibraryWeb/clients/src/App.js/static/css/main.4c66428b.css.map",
+    "main.2862c045.js.map": "/github.io/LibraryWeb/clients/src/App.js/static/js/main.2862c045.js.map",
+    "453.a8bce52b.chunk.js.map": "/github.io/LibraryWeb/clients/src/App.js/static/js/453.a8bce52b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f12b7ce.css",
-    "static/js/main.a4e5335e.js"
+    "static/css/main.4c66428b.css",
+    "static/js/main.2862c045.js"
   ]
 }
